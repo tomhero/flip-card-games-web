@@ -4,6 +4,8 @@
 
 [![Deploy With Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tomhero/flip-card-games-web)
 
+With this you can easily deploy with github account 
+
 > NOTE : There are three important env variables
 > 1. `VUE_APP_API_HOST` : This is host address of your backend api server (not include `http/https` just host name)
 > 2. `VUE_APP_API_KEY`: Please specific your generated backend api key
