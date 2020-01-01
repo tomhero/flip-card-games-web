@@ -6,6 +6,6 @@
   incoming-hooks = ["flipcard-service"]
 
 [template.environment]
-  VUE_APP_API_HOST = "your backend api server address (not include http/https just host name)"
+  VUE_APP_API_HOST = "Your backend api server address (please also include http/https)"
   VUE_APP_API_KEY = "Please specific backend api key"
   VUE_APP_API_VERSION = "Version of the API e.g. v1"
